@@ -7,3 +7,5 @@ Nota: se recomienda jugar con un zoom al 75%
 Librerías instaladas y el cómo instalarlas:
 yarn : Yarn install
 mathjs : add mathjs
+
+Link del juego: https://assakey.github.io/ameme-juego-imposible-/
